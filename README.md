@@ -11,6 +11,3 @@ These are my languages and platforms I code on!
   <img src="https://raw.githubusercontent.com/otomer/otomer/master/assets/vscode.webp" width="70">
   <img src="https://raw.githubusercontent.com/otomer/otomer/master/assets/github.webp" width="70">
 </p>
-# Links
-[My Github Profile](https://github.com/adamsnathaniel)
-[CodeDistrict Website](https://codedistrict.glitch.me)
